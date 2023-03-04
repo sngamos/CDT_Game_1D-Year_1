@@ -24,6 +24,7 @@ If the game is over, close the program and run it again to play again.
 Hope you enjoy the game! :D
 
 Credits:
+
 Sng Wei Qi Amos: Created the typing game, geography game, and wrote documentation.
 Soh Zhi Ying: Created the math game and wrote documentation.
 Edwin Wongso: Created the maze generator and wrote documentation.
