@@ -3,16 +3,18 @@ Educational Game that tests your general knowledge and skills. Written in python
 
 How to run the program
 
-1. Open the folder in an IDE such as visual studio code or pycharm. 
+1. Download and install python 3 (https://www.python.org/downloads/)
+
+2. Open the folder in an IDE such as visual studio code or pycharm. 
    a. If on windows, run the “final_game11.0_w_Sound_windows.py” file using the chosen IDE. 
    b. If on mac, run the ““final_game11.0_mac.py”.
       Do not run the windows version as that uses winsound, which is not available in macOS.
 
-2. Follow the instructions that are displayed on the turtle window that pops up in two seconds after pressing run. 
+3. Follow the instructions that are displayed on the turtle window that pops up in two seconds after pressing run. 
 
-3. All game instructions either appear on the turtle window or on a popup window.
+4. All game instructions either appear on the turtle window or on a popup window.
 
-4. Turn on sound to hear sound and music if on windows OS.
+5. Turn on sound to hear sound and music if on windows OS.
 
 The goal is to make the red square exit the maze.
 Maximise your score by answering questions with higher difficulty.
