@@ -26,8 +26,11 @@ Hope you enjoy the game! :D
 Credits:
 
 Sng Wei Qi Amos: Created the typing game, geography game, and wrote documentation.
+
 Soh Zhi Ying: Created the math game and wrote documentation.
+
 Edwin Wongso: Created the maze generator and wrote documentation.
+
 Tan Yu Quan: Created the number pattern game and wrote documentation.
 
 
